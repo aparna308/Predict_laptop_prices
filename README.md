@@ -3,7 +3,8 @@ Solution Approach- I have done data analysis and data preprocessing, then create
 Result- mean_squared_error of the model is 192193347 and varience is 76.6%. Variance evaluates the scatter of the data points around the fitted regression line. 
 Higher Variance values represent smaller differences between the observed data and the fitted values.
 
-The features include-
+Detailed Solution-
+The dataset has the following features-
 1. Brand
 2. processor_brand
 3. processor_name
