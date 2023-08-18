@@ -1,5 +1,7 @@
 Goal- The dataset contains 19 columns describing different features of laptop. Based on the features, model has to predict the laptop price.
+
 Solution Approach- I have done data analysis and data preprocessing, then created a linear regression model. To see how well the model is working, I have calculated the mean square error and varience.
+
 Result- mean_squared_error of the model is 192193347 and varience is 76.6%. Variance evaluates the scatter of the data points around the fitted regression line. 
 Higher Variance values represent smaller differences between the observed data and the fitted values.
 
@@ -26,6 +28,7 @@ The dataset has the following features-
 19. Price
 
 The dataset contains 824 entries.
+
 A high level walk through of the steps I followed to make the model-
 1. Import all the required libraries and dataset.
 2. Checked if dataset has rows with null values, if so then delete them. In this dataset, there were no such rows.
